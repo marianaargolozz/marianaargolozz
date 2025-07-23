@@ -1,8 +1,8 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/marianaargolozz/perfil/main/menina-kawaii.png" alt="Menina kawaii" width="150"/>
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+💖;Estudante+de+Engenharia+de+Software;" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&size=22&pause=1000&color=FF69B4&left=true&vleft=true&width=600&lines=Apaixonada+por+tecnologia+💖;Estudante+de+Engenharia+de+Software;" alt="Typing SVG" />
 </p>
 
 ## 🌸 Olá, eu sou a Mariana 🌸
